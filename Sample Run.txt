@@ -1,0 +1,13 @@
+___People___
+Person 1: Jim Smith, age 46, teacher (English)
+Person 2: Samantha Gauff, age 58, teacher (Software Engineering)
+Person 3: Keith Lamar, age 20, student (Sophmore)
+Person 4: Wyatt Witner, age 18, student (Freshman)
+Person 5: Ben Limbherg, age 25
+Person 6: Ted Ford, age 28
+
+---Activity Demo---
+Jim Speaks up and begins teaching English.
+Wyatt goes to the dining hall and gets a burger to eat.
+Hello, my name is Ben Limbherg.
+Samantha sits down and grades some assignments for Software Engineering.
